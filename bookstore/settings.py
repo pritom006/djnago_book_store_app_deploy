@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get('DJANGO_DEBUG', '') == 'True'
 
-ALLOWED_HOSTS = ['fierce-shelf-96270.herokuapp.com']
+ALLOWED_HOSTS = ['aqueous-earth-54453.herokuapp.com']
 
 
 # Application definition
